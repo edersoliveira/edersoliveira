@@ -1,4 +1,4 @@
-## Olá, sou o Eder, cursando ADS
+## Olá, sou o Eder, cursando ADS, iniciante na programação, mas fascinado por tecnologia.
 <div align="center">
   <a href="https://github.com/edersoliveira">
 </div>
